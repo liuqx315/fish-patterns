@@ -1,5 +1,4 @@
-## Pattern blending enriches the diversity of animal colorations, SCIENCE ADVANCES
-2 Dec 2020 Vol 6, Issue 49 DOI: 10.1126/sciadv.abb9107 ; https://www.science.org/doi/10.1126/sciadv.abb9107
+# Pattern blending enriches the diversity of animal colorations, SCIENCE ADVANCES 2020 Vol 6, Issue 49 DOI: 10.1126/sciadv.abb9107 ; https://www.science.org/doi/10.1126/sciadv.abb9107
 
 
 # fish-patterns
